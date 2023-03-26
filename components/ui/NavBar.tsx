@@ -27,7 +27,7 @@ export const NavBar = () => {
 			<NextLink legacyBehavior href='/' passHref > 
 				<Link>
 					<Text color="white" h2>P</Text>
-					<Text color="white" h3>okémon</Text>
+					<Text color="white" h3>okémon!</Text>
 				</Link>
 			</NextLink>
 
